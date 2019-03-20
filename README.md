@@ -1,40 +1,40 @@
-# ToDoList
+## ToDoList
 Introduction project to Node.JS and Express by building a RESTful Api
 
 
-# Structure
+## Structure
 This project includes 2 routes (Tasks and Tasks/ID) and 5 methods: 
 
-Tasks
+#Tasks
 -GET
 -POST
 
-Tasks/ID
+#Tasks/ID
 -GET
 -PUT
 -DELETE
 
 
-# Dependencies
-npm:
+## Dependencies
+#npm:
 npm init
 
-nodemon:
+#nodemon:
 npm install --save-dev nodemon
 
-express:
+#express:
 npm install express --save
 
-mongoose
+#mongoose
 npm install mongoose --save
 
 
-# Start the Program
-Start DB:
+## Start the Program
+#Start DB:
 mongod
 
-Start Server:
+#Start Server:
 npm run start
 
 
-# Swagger Documentation
+## Swagger Documentation
